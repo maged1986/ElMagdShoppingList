@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290576201339",
+    "project_id": "elmagd-shopping-list-4daf5",
+    "storage_bucket": "elmagd-shopping-list-4daf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290576201339:android:ee63f784a5a88e3bcb94de",
+        "android_client_info": {
+          "package_name": "com.magednan.elmagdshoppinglist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290576201339-ut36b98bg65f96d9erc925865in41qlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsNpV7XQMgSm_hYz6Zeln9opvuSqqZCLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290576201339-ut36b98bg65f96d9erc925865in41qlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
